@@ -1,13 +1,153 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Akıllı Belge İşleme</title>
+    <meta charset="UTF-8">
+    <title>SmartDocument – AI Document Processing</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Roboto, Arial, sans-serif;
+            background: linear-gradient(135deg, #eef2f7, #dbe2ea);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .card {
+            background: #ffffff;
+            width: 100%;
+            max-width: 540px;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 20px 45px rgba(0,0,0,0.12);
+        }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+
+        .logo h1 {
+            margin: 0;
+            font-size: 28px;
+            color: #1f2937;
+        }
+
+        .logo span {
+            color: #2563eb;
+        }
+
+        .logo p {
+            margin-top: 6px;
+            font-size: 14px;
+            color: #6b7280;
+        }
+
+        .upload-box {
+            border: 2px dashed #cbd5e1;
+            border-radius: 12px;
+            padding: 30px;
+            text-align: center;
+            transition: border-color 0.3s;
+        }
+
+        .upload-box:hover {
+            border-color: #2563eb;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        .upload-label {
+            display: inline-block;
+            padding: 12px 26px;
+            background: #2563eb;
+            color: #fff;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background 0.3s;
+        }
+
+        .upload-label:hover {
+            background: #1e40af;
+        }
+
+        .file-info {
+            margin-top: 14px;
+            font-size: 13px;
+            color: #374151;
+        }
+
+        .submit-btn {
+            margin-top: 28px;
+            width: 100%;
+            padding: 15px;
+            border: none;
+            border-radius: 10px;
+            background: #16a34a;
+            color: white;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .submit-btn:hover {
+            background: #15803d;
+        }
+
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 12px;
+            color: #9ca3af;
+        }
+    </style>
 </head>
 <body>
-    <h1>📄 Akıllı Belge Yükleme</h1>
+
+<div class="card">
+    <div class="logo">
+        <h1>Smart<span>Document</span></h1>
+        <p>AI-powered Document Classification & Anomaly Detection</p>
+    </div>
+
     <form action="/upload" method="post" enctype="multipart/form-data">
-        <input type="file" name="file" required>
-        <button type="submit">Yükle ve Tahmin Et</button>
+        <div class="upload-box">
+            <label for="file-upload" class="upload-label">
+                Select Document
+            </label>
+            <input id="file-upload" type="file" name="file" required
+                   accept=".pdf,.xls,.xlsx">
+            <div class="file-info" id="file-info">
+                Supported formats: PDF, XLS, XLSX
+            </div>
+        </div>
+
+        <button type="submit" class="submit-btn">
+            Upload & Analyze
+        </button>
     </form>
+
+    <div class="footer">
+        Master Thesis Prototype – SmartDocument System
+    </div>
+</div>
+
+<script>
+    const fileInput = document.getElementById("file-upload");
+    const fileInfo = document.getElementById("file-info");
+
+    fileInput.addEventListener("change", function () {
+        if (this.files.length > 0) {
+            fileInfo.textContent = "Selected file: " + this.files[0].name;
+        }
+    });
+</script>
+
 </body>
 </html>

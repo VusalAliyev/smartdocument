@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SmartDocument – Analysis Result</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: "Segoe UI", Roboto, Arial, sans-serif;
+            background: #f1f5f9;
+            padding: 40px;
+        }
+
+        .container {
+            max-width: 720px;
+            margin: auto;
+            background: white;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 20px 45px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            margin-top: 0;
+            color: #1f2937;
+        }
+
+        .section {
+            margin-top: 25px;
+        }
+
+        .label {
+            font-weight: 600;
+            color: #374151;
+        }
+
+        .value {
+            margin-top: 4px;
+            color: #111827;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 999px;
+            font-size: 13px;
+            font-weight: 600;
+        }
+
+        .success {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .danger {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        .btn {
+            margin-top: 30px;
+            display: inline-block;
+            padding: 12px 22px;
+            background: #2563eb;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+        }
+
+        .btn:hover {
+            background: #1e40af;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Document Analysis Result</h1>
+
+    <div class="section">
+        <div class="label">File name</div>
+        <div class="value">{{ filename }}</div>
+    </div>
+
+    <div class="section">
+        <div class="label">Predicted document type</div>
+        <div class="value">{{ label }}</div>
+    </div>
+
+    <div class="section">
+        <div class="label">Classification confidence</div>
+        <div class="value">{{ confidence }}</div>
+    </div>
+
+    <div class="section">
+        <div class="label">Anomaly status</div>
+        <div class="value">
+            {% if anomaly %}
+                <span class="badge danger">⚠ Anomalous Document</span>
+            {% else %}
+                <span class="badge success">✓ Normal Document</span>
+            {% endif %}
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="label">Stored in SeaFile folder</div>
+        <div class="value">{{ folder }}</div>
+    </div>
+
+    <div class="section">
+        <div class="label">Processing time</div>
+        <div class="value">{{ time }} seconds</div>
+    </div>
+
+    <a href="/" class="btn">Upload Another Document</a>
+</div>
+
+</body>
+</html>
