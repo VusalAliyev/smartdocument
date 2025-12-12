@@ -1,0 +1,4 @@
+pip install opencv-python pytesseract tensorflow scikit-learn flask
+pip install flask pdf2image
+pip install pandas openpyxl
+

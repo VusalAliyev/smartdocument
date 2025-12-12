@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+
+# Environment
+.env
+
+# Datasets & outputs
+dataset/
+dataset_cleaned/
+extracted_texts/
+uploads/
+
+# ML artifacts
+model/*.pkl
+
+# Seafile / Docker volumes
+seafile-data/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
