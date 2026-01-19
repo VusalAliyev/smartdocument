@@ -1,0 +1,61 @@
+
+=== Page 1 ===
+Invoice no: 34108072
+
+Date of issue:
+
+Seller:
+
+Arnold, Watson and Taylor
+251 Karen Extensions Apt. 871
+Danielstad, MN 83642
+
+Tax Id: 920-98-0924
+IBAN: GB80XWRE14710000716375
+
+ITEMS
+No. Description Qty
+tks New Young Fabulous Broke Yfb 3,00
+Blue Ombre Overlay Halter Maxi
+Dress Sz Medium $286
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+10/05/2014
+
+Client:
+Mcclure-Thompson
+
+95024 Kirby Pike
+
+East Hannahfurt, AL 71725
+
+Tax Id: 922-85-6809
+
+Net price
+
+Net worth VAT [%]
+
+55,00 165,00 10%
+Net worth VAT
+165,00 16,50
+$ 165,00 $ 16,50
+
+Gross
+worth
+
+181,50
+
+Gross worth
+181,50
+
+$ 181,50
+

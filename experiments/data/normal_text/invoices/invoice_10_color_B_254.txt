@@ -1,0 +1,56 @@
+
+=== Page 1 ===
+Invoice no: 15203117
+
+Date of issue:
+
+Seller:
+
+Gutierrez, Shah and Davis
+11259 Heidi Haven
+West Erik, DE 14910
+
+Tax Id: 903-87-8854
+IBAN: GB12YIHU88023545549081
+
+ITEMS
+No. Description Qty
+tks boys shoes size 5 4,00
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+05/10/2019
+
+Client:
+
+Howell, Bryant and Martinez
+120 Martinez Gardens Suite 075
+Nicholasmouth, MS 36786
+
+Tax Id: 933-80-9316
+
+Net price Net worth VAT [%]
+
+5,80 23,20 10%
+Net worth VAT
+23,20 2,32
+$ 23,20 $ 2,32
+
+Gross
+worth
+
+25,52
+
+Gross worth
+25/52
+
+$ 25,52
+

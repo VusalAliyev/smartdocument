@@ -1,0 +1,29 @@
+
+=== Page 1 ===
+Invoice no: 83557665
+
+Date of issue: 04/10/2018
+Seller: Client:
+White, Spencer and Gordon Wilson, Wilson and Moore
+7929 Jones Bypass Apt. 847 0104 Patricia Cliffs Suite 896
+Porterview, CA 76224 Prestonshire, OR 01366
+Tax Id: 961-98-5574 Tax Id: 974-70-9192
+IBAN: GB31PYMY16462797074778
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+tks Room Mat Morocco Rug Round 5,00 each 27,59 137,95 10% 151,74
+Bohemian Style Tassel Carpet
+Door Decor Blanket
+2. S XL Fluffy Rugs Anti-Slip 4,00 each 16,81 67,24 10% 73,96
+SHAGGY RUG Soft Carpet Mat
+Living Room Floor Bedroom
+Sh Pentagram Area Rug Long Plush 2,00 each 18,81 37,62 10% 41,38
+Baby Room Nursery Star Shape
+For Bedroom Carpet
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 242,81 24,28 267,09
+
+Total $ 242,81 $ 24,28 $ 267,09
+

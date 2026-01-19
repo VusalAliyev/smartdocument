@@ -1,0 +1,107 @@
+
+=== Page 1 ===
+Invoice no: 62093955
+
+Date of issue:
+
+Seller:
+
+Turner-Ferrell
+676 Rachel Extensions Apt. 264
+Bradleyport, HI 91029
+
+Tax Id: 958-72-4166
+
+IBAN: GB26PWUC92186552911251
+
+ITEMS
+
+No.
+
+Description
+
+15"x15" White Marble Chess
+Top Table Carnelian Inlay Art
+Black Friday Gift Deco
+
+18" White Marble Corner Coffee
+Table Top Lapis Floral Inlay
+Kitchen Decors W282
+
+27 Inches Black Marble Coffee
+Table Top Round Home Sofa
+Table with Marquetry Art
+
+Semi Precious Stone Inlay Art
+Island Table Top Marble Dinning
+Table 36 Inches
+
+SUMMARY
+
+Total
+
+Qty
+
+4,00
+
+5,00
+
+3,00
+
+2,00
+
+VAT [%]
+
+10%
+
+01/31/2021
+
+UM
+
+eacn
+
+each
+
+eacn
+
+eacn
+
+Client:
+Lopez PLC
+
+0725 Randolph Glen
+West Christopherhaven, NY 16554
+
+Tax Id: 921-96-0028
+
+Net price
+
+600,00
+
+398,64
+
+596,25
+
+1751,25
+
+Net worth
+9 684,45
+
+$ 9 684,45
+
+Net worth VAT [%] Gross
+worth
+
+2 400,00 10% 2 640,00
+
+1 993,20 10% 2 192,52
+
+1 788,75 10% 1 967,63
+
+3 502,50 10% 3 852,75
+VAT Gross worth
+
+968,45 10 652,90
+
+$ 968,45 $ 10 652,90
+

@@ -1,0 +1,35 @@
+
+=== Page 1 ===
+Invoice no: 68858697
+
+Date of issue: 09/18/2013
+
+Seller: Client:
+
+Harris-Brown Cooper, Chavez and Doyle
+673 Rebekah Row 716 Williamson Hollow
+
+South Johnhaven, DC 85603 Lake Nicholashaven, HI 32957
+Tax Id: 925-74-7431 Tax Id: 962-81-5135
+
+IBAN: GB82TSSU73707670525486
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. YILONG 4'x6' Vintage 1,00 each 3 600,00 3 600,00 10% 3 960,00
+Handmade Carpet Medallion
+Porch Hand Knotted Silk Rugs
+080B
+2. Chindi Area Rugs Carpet New 4,00 each 29,99 119,96 10% 131,96
+Design Bohemian Hippi Garden
+Yoga Mat Indian Kilim
+Se Yilong 1'x1.5' 400Lines Area 4,00 each 540,00 2 160,00 10% 2 376,00
+Rug High Density Hand knotted
+Silk Carpet 221H
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 5 879,96 588,00 6 467,96
+
+Total $5 879,96 $ 588,00 $ 6 467,96
+

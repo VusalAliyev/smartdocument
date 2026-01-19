@@ -1,0 +1,3 @@
+| ITEM | DESCR1PT10N | AMOUNT |
+| A23 | Service Fee | 250.00 |
+| B77 | Add-On Fee | 75.00 |

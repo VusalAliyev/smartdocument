@@ -1,0 +1,57 @@
+
+=== Page 1 ===
+Invoice no: 33156841
+
+Date of issue:
+
+Seller:
+
+Taylor-Horton
+96281 Martinez Glen Apt. 838
+Wallaceville, LA 17667
+
+Tax Id: 933-79-9465
+IBAN: GB34XGLZ82222804531181
+
+ITEMS
+No. Description Qty
+1. Fast HP Desktop Computer Intel 3,00
+Processor 4GB 160GB 17" LCD
+DVD Wifi Windows 10
+SUMMARY
+VAT [%]
+
+10%
+
+Total
+
+UM
+
+each
+
+08/19/2016
+
+Client:
+Mejia, Hernandez and Clark
+
+Unit 7794 Box 9353
+DPO AA 31052
+
+Tax Id: 997-94-1006
+
+Net price Net worth VAT [%]
+99,95 299,85 10%
+Net worth VAT
+299,85 29,99
+$ 299,85 $ 29,99
+
+Gross
+worth
+
+329,84
+
+Gross worth
+329,84
+
+$ 329,84
+

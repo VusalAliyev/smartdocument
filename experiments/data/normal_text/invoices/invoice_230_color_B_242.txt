@@ -1,0 +1,57 @@
+
+=== Page 1 ===
+Invoice no: 56114837
+
+Date of issue:
+
+Seller:
+
+Davis, Garrett and Nichols
+764 Oliver Drive Apt. 408
+East Toddmouth, VA 39940
+
+Tax Id: 912-98-8588
+IBAN: GB87POVL28234145851006
+
+ITEMS
+No. Description Qty
+tks Nike Air Jordan 1 Mid Obsidian 4,00
+
+640735-174 Toddler Kids
+Children Size 8C Blue
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+10/30/2013
+
+Client:
+
+Hill-Smith
+882 Adams Shoal
+Deckerfurt, PA 31632
+
+Tax Id: 984-75-1212
+
+UM Net price Net worth VAT [%]
+each 24,99 99,96 10%
+Net worth VAT
+99,96 10,00
+$ 99,96 $ 10,00
+
+Gross
+worth
+
+109,96
+
+Gross worth
+
+109,96
+
+$ 109,96
+

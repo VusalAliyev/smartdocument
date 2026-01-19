@@ -1,0 +1,57 @@
+
+=== Page 1 ===
+Invoice no: 49333552
+
+Date of issue:
+
+Seller:
+
+Brown Ltd
+9832 Shelley River Suite 607
+Lake Melanieside, FL 14697
+
+Tax Id: 924-86-3978
+IBAN: GB55JTXO085998089225682
+
+ITEMS
+No. Description Qty
+1. World Map Round Carpets Room 5,00
+
+Printed Area Rug Blue Floor Mat
+Bedroom Play Mat
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+09/27/2018
+
+Client:
+
+Brown-Young
+8856 Cynthia Vista
+New Christopher, RI 95371
+
+Tax Id: 923-76-3392
+
+UM Net price Net worth VAT [%]
+each 83,78 418,90 10%
+Net worth VAT
+418,90 41,89
+$ 418,90 $ 41,89
+
+Gross
+worth
+
+460,79
+
+Gross worth
+
+460,79
+
+$ 460,79
+

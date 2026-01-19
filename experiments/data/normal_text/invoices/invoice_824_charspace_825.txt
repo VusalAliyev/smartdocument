@@ -1,0 +1,84 @@
+
+=== Page 1 ===
+Invoice no: 57635062
+
+Date of issue:
+
+Seller:
+
+Bradley-Osborne
+93414 Collins Underpass
+Randyhaven, NH 61263
+
+Tax Id: 990-73-4891
+
+IBAN: GB44B0CS82244973472029
+
+ITEMS
+
+No. Description
+
+1. Dell Optiplex 760 Windows 10
+Professional Desktop Computer
+
+4GB 160GB DVD
+
+2. Custom Build Gaming RGB Mini
+
+ITX Computer PC
+
+3: Dell OptiPlex 7060 SFF
+
+Computer, 8th Gen Core i5, 8GB
+DDR4, New 240GB SSD, DVD
+
+SUMMARY
+
+Total
+
+Qty
+
+2,00
+
+5,00
+
+5,00
+
+VAT [%]
+
+10%
+
+04/26/2016
+
+Client:
+
+Smith Group
+9311 Griffin Points Apt. 967
+Hicksbury, NY 18347
+
+Tax Id: 998-98-4276
+
+UM Net price Net worth VAT [%]
+each 99,95 199,90 10%
+each 520,00 2 600,00 10%
+each 202,50 1 012,50 10%
+
+Net worth VAT
+3 812,40 381,24
+$ 3 812,40 $ 381,24
+
+Gross
+worth
+
+219,89
+
+2 860,00
+
+i375
+
+Gross worth
+
+4 193,64
+
+$ 4 193,64
+

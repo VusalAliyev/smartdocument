@@ -1,0 +1,80 @@
+source_pdf,output_txt,category,ok
+experiments\data\anomaly\Code\Code (1) - Copy.pdf,experiments\data\anomaly_text\Code\Code (1) - Copy.txt,Code,True
+experiments\data\anomaly\Code\Code (1).pdf,experiments\data\anomaly_text\Code\Code (1).txt,Code,True
+experiments\data\anomaly\Code\Code (2) - Copy.pdf,experiments\data\anomaly_text\Code\Code (2) - Copy.txt,Code,True
+experiments\data\anomaly\Code\Code (2).pdf,experiments\data\anomaly_text\Code\Code (2).txt,Code,True
+experiments\data\anomaly\Code\Code (3) - Copy.pdf,experiments\data\anomaly_text\Code\Code (3) - Copy.txt,Code,True
+experiments\data\anomaly\Code\Code (3).pdf,experiments\data\anomaly_text\Code\Code (3).txt,Code,True
+experiments\data\anomaly\Code\Code (4) - Copy.pdf,experiments\data\anomaly_text\Code\Code (4) - Copy.txt,Code,True
+experiments\data\anomaly\Code\Code (4).pdf,experiments\data\anomaly_text\Code\Code (4).txt,Code,True
+experiments\data\anomaly\Code\Code (5) - Copy.pdf,experiments\data\anomaly_text\Code\Code (5) - Copy.txt,Code,True
+experiments\data\anomaly\Code\Code (5).pdf,experiments\data\anomaly_text\Code\Code (5).txt,Code,True
+experiments\data\anomaly\Code\Code (6) - Copy.pdf,experiments\data\anomaly_text\Code\Code (6) - Copy.txt,Code,True
+experiments\data\anomaly\Code\Code (6).pdf,experiments\data\anomaly_text\Code\Code (6).txt,Code,True
+experiments\data\anomaly\Code\Code (7) - Copy.pdf,experiments\data\anomaly_text\Code\Code (7) - Copy.txt,Code,True
+experiments\data\anomaly\Code\Code (7).pdf,experiments\data\anomaly_text\Code\Code (7).txt,Code,True
+experiments\data\anomaly\Code\code (10) - Copy.pdf,experiments\data\anomaly_text\Code\code (10) - Copy.txt,Code,True
+experiments\data\anomaly\Code\code (10).pdf,experiments\data\anomaly_text\Code\code (10).txt,Code,True
+experiments\data\anomaly\Code\code (8).pdf,experiments\data\anomaly_text\Code\code (8).txt,Code,True
+experiments\data\anomaly\Code\code (9).pdf,experiments\data\anomaly_text\Code\code (9).txt,Code,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (1).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (1).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (10).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (10).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (11).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (11).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (12).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (12).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (13).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (13).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (14).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (14).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (15).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (15).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (16).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (16).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (17).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (17).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (18).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (18).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (19).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (19).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (2).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (2).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (20).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (20).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (3).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (3).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (4).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (4).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (5).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (5).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (6).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (6).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (7).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (7).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (8).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (8).txt,OCRProblematic,True
+experiments\data\anomaly\OCRProblematic\OcrProblematic (9).pdf,experiments\data\anomaly_text\OCRProblematic\OcrProblematic (9).txt,OCRProblematic,True
+experiments\data\anomaly\RandomText\randomText (1).pdf,experiments\data\anomaly_text\RandomText\randomText (1).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (10).pdf,experiments\data\anomaly_text\RandomText\randomText (10).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (11).pdf,experiments\data\anomaly_text\RandomText\randomText (11).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (12).pdf,experiments\data\anomaly_text\RandomText\randomText (12).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (13).pdf,experiments\data\anomaly_text\RandomText\randomText (13).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (14).pdf,experiments\data\anomaly_text\RandomText\randomText (14).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (15).pdf,experiments\data\anomaly_text\RandomText\randomText (15).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (2).pdf,experiments\data\anomaly_text\RandomText\randomText (2).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (3).pdf,experiments\data\anomaly_text\RandomText\randomText (3).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (4).pdf,experiments\data\anomaly_text\RandomText\randomText (4).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (5).pdf,experiments\data\anomaly_text\RandomText\randomText (5).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (6).pdf,experiments\data\anomaly_text\RandomText\randomText (6).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (7).pdf,experiments\data\anomaly_text\RandomText\randomText (7).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (8).pdf,experiments\data\anomaly_text\RandomText\randomText (8).txt,RandomText,True
+experiments\data\anomaly\RandomText\randomText (9).pdf,experiments\data\anomaly_text\RandomText\randomText (9).txt,RandomText,True
+experiments\data\anomaly\Resume\Resume (1).pdf,experiments\data\anomaly_text\Resume\Resume (1).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (10).pdf,experiments\data\anomaly_text\Resume\Resume (10).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (11).pdf,experiments\data\anomaly_text\Resume\Resume (11).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (12).pdf,experiments\data\anomaly_text\Resume\Resume (12).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (13).pdf,experiments\data\anomaly_text\Resume\Resume (13).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (14).pdf,experiments\data\anomaly_text\Resume\Resume (14).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (15).pdf,experiments\data\anomaly_text\Resume\Resume (15).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (16).pdf,experiments\data\anomaly_text\Resume\Resume (16).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (17).pdf,experiments\data\anomaly_text\Resume\Resume (17).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (18).pdf,experiments\data\anomaly_text\Resume\Resume (18).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (19).pdf,experiments\data\anomaly_text\Resume\Resume (19).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (2).pdf,experiments\data\anomaly_text\Resume\Resume (2).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (20).pdf,experiments\data\anomaly_text\Resume\Resume (20).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (21).pdf,experiments\data\anomaly_text\Resume\Resume (21).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (22).pdf,experiments\data\anomaly_text\Resume\Resume (22).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (23).pdf,experiments\data\anomaly_text\Resume\Resume (23).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (24).pdf,experiments\data\anomaly_text\Resume\Resume (24).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (25).pdf,experiments\data\anomaly_text\Resume\Resume (25).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (26).pdf,experiments\data\anomaly_text\Resume\Resume (26).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (3).pdf,experiments\data\anomaly_text\Resume\Resume (3).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (4).pdf,experiments\data\anomaly_text\Resume\Resume (4).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (5).pdf,experiments\data\anomaly_text\Resume\Resume (5).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (6).pdf,experiments\data\anomaly_text\Resume\Resume (6).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (7).pdf,experiments\data\anomaly_text\Resume\Resume (7).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (8).pdf,experiments\data\anomaly_text\Resume\Resume (8).txt,Resume,True
+experiments\data\anomaly\Resume\Resume (9).pdf,experiments\data\anomaly_text\Resume\Resume (9).txt,Resume,True

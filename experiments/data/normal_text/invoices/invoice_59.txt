@@ -1,0 +1,109 @@
+
+=== Page 1 ===
+Invoice no: 42760323
+
+Date of issue:
+
+Seller:
+
+Martin-Butler
+1654 Jeremy Garden
+South Alexandriaville, VA 71760
+
+Tax Id: 965-86-2430
+IBAN: GB490KCD66731511692442
+
+ITEMS
+No. Description Qty
+1. YILONG 5'x7.5' Handknotted 3,00
+
+Silk Carpet Whirlwind Home
+Decor Classic Rug 0807
+
+2. Yilong 5'x7' Handknotted Silk 2,00
+Carpet Home Interior Classic
+Luxury Area Rug 1047
+
+3: Fluffy Rugs Anti-slip Area Rug 4,00
+Dining Room Carpet Floor Mat
+Home Bedroom Decor !
+
+4. Turkish Kayseri Small Kilim Rug, 2,00
+
+Doormat, Bathmat, Decor Area
+Rug Carpet 41"x74"
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+09/23/2020
+
+UM
+
+eacn
+
+each
+
+eacn
+
+eacn
+
+Client:
+
+Patterson, Garza and Adkins
+
+6224 Arellano Pines
+
+Davidburgh, SC
+
+86433
+
+Tax Id: 979-98-4396
+
+Net price
+
+2 800,00
+
+8 400,00
+
+4,99
+
+55,00
+
+Net worth
+25 329,96
+
+$ 25 329,96
+
+Net worth VAT [%]
+8 400,00 10%
+16 800,00 10%
+19,96 10%
+110,00 10%
+
+VAT
+
+2 533,00
+
+$ 2 533,00
+
+Gross
+worth
+
+9 240,00
+
+18 480,00
+
+21,96
+
+121,00
+
+Gross worth
+27 862,96
+
+$ 27 862,96
+

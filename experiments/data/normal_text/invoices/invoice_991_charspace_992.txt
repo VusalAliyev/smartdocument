@@ -1,0 +1,56 @@
+
+=== Page 1 ===
+Invoice no: 68730022
+
+Date of issue:
+
+Seller:
+
+Rodgers, Brooks and Jarvis
+580 Cox Summit Apt. 183
+Kristenport, HI 51069
+
+Tax Id: 981-90-1999
+IBAN: GB20MHNS79841839771095
+
+ITEMS
+No. Description Qty
+tks The Fountainhead: 50th 4,00
+
+Anniversary Edition
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+02/27/2020
+
+Client:
+
+Johnson, Best and Foster
+5784 Amy Glens Apt. 063
+Bradfordshire, NC 07422
+
+Tax Id: 971-95-6275
+
+UM Net price Net worth VAT [%]
+each 4,49 17,96 10%
+Net worth VAT
+17,96 1,80
+$ 17,96 $ 1,80
+
+Gross
+worth
+
+19,76
+
+Gross worth
+
+19,76
+
+$ 19,76
+

@@ -1,0 +1,50 @@
+
+=== Page 1 ===
+Invoice no: 10817861
+
+Date of issue:
+
+Seller:
+
+Hughes-Jones
+565 Michael Cape Apt. 347
+Port Brianside, DE 28251
+
+Tax Id: 905-82-3364
+IBAN: GB58XSSC05650878610110
+
+ITEMS
+No. Description Qty
+tks YILONG 4'x6' Golden Handmade 3,00
+
+Area Carpet Tribal Hand
+Knotted Silk Rugs 074B
+
+SUMMARY
+
+VAT [%]
+
+10%
+
+Total
+
+06/09/2020
+
+Client:
+
+Shaw, Williams and Johnston
+08089 Arnold Trail Suite 577
+West Valerieland, MS 52039
+
+Tax Id: 949-85-0610
+
+UM Net price Net worth VAT [%] Gross
+worth
+
+each 3 600,00 10 800,00 10% 11 880,00
+Net worth VAT Gross worth
+
+10 800,00 1 080,00 11 880,00
+
+$ 10 800,00 $ 1 080,00 $ 11 880,00
+

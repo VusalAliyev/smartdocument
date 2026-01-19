@@ -1,0 +1,102 @@
+
+=== Page 1 ===
+Invoice no: 75915755
+
+Date of issue:
+
+Seller:
+
+Jones PLC
+39760 Taylor Vista Apt. 192
+Lake James, TN 44448
+
+Tax Id: 923-80-6587
+IBAN: GB31CLFG26534726386671
+
+ITEMS
+No. Description Qty
+1. Wine Things Unlimited - Tipsy 5,00
+Wine Elf - Pewter Wine Bottle
+Stopper/Cork
+2. PERSONALIZED WINE CELLAR 1,00
+
+BOTTLE OPENER / CORKSCREW
+~ JOHN ~ FRIDGE MAGNET
+
+Sh With Hooks Stemware Storage 4,00
+Multiple Uses Iron Wine Rack
+Hanging Glass
+
+4. Yeti Rambler 30 oz and 100z 4,00
+wine tumbler Sea Foam
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+05/17/2015
+
+UM
+
+eacn
+
+each
+
+eacn
+
+eacn
+
+Client:
+
+Mcdonald, Robinson and Fowler
+
+00445 Kim Forest Suite 295
+
+Dustinstad, TX 35031
+
+Tax Id: 969-72-1310
+
+Net price
+
+8,99
+
+7,99
+
+28,08
+
+59,99
+
+Net worth
+405,22
+
+$ 405,22
+
+Net worth VAT [%]
+44,95 10%
+7,99 10%
+112,32 10%
+239,96 10%
+VAT
+40,52
+$ 40,52
+
+Gross
+worth
+
+49,45
+
+8,79
+
+123;55
+
+263,96
+
+Gross worth
+
+445,74
+
+$ 445,74
+

@@ -1,0 +1,81 @@
+
+=== Page 1 ===
+Invoice no: 87958388
+
+Date of issue:
+
+Seller:
+
+Robinson and Sons
+PSC 9668, Box 0970
+APO AP 52365
+
+Tax Id: 967-86-0834
+IBAN: GB510LQL96796729193422
+
+ITEMS
+
+No.
+
+Description
+
+Qty
+
+16"x16" Marble Top Customize
+Table Lapis Lazuli Marquetry
+Inlaid Halloween Gift
+
+3,00
+
+16"x16" White Marble Top
+Counter Table Malachite Inlay
+Marquetry Art Home Décor
+
+3,00
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+UM
+
+each
+
+each
+
+04/11/2016
+
+Client:
+
+Jackson-Cardenas
+36484 Richard Extensions Suite 325
+North Valeriehaven, AZ 79970
+
+Tax Id: 924-97-4700
+
+Net price
+
+Net worth VAT [%]
+800,00 2 400,00 10%
+745,99 2 237,97 10%
+
+Net worth VAT
+4 637,97 463,80
+$ 4 637,97 $ 463,80
+
+Gross
+worth
+
+2 640,00
+
+2 461,77
+
+Gross worth
+
+5 101,77
+
+$5 101,77
+

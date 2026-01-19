@@ -1,0 +1,3 @@
+[WARN1NG] 2025-05-09 14:33:07
+Failed tO parse fleld "tOtal"
+Value: "l,030.00"

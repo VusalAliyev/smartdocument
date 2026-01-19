@@ -1,0 +1,396 @@
+path,label,source,score,pred
+experiments\data\normal_text\notifications\email_4298.txt,0,normal,0.8710666031844518,0
+experiments\data\anomaly_text\Resume\Resume (11).txt,1,anomaly,1.0580246754980354,1
+experiments\data\normal_text\reports\report_3067.txt,0,normal,0.9124376830662762,0
+experiments\data\normal_text\notifications\email_6765.txt,0,normal,0.9211411408466673,0
+experiments\data\anomaly_text\Resume\Resume (5).txt,1,anomaly,1.0587578147295582,1
+experiments\data\normal_text\notifications\email_4905.txt,0,normal,0.9702827417666099,0
+experiments\data\normal_text\notifications\email_9323.txt,0,normal,0.9828541499617804,0
+experiments\data\normal_text\notifications\email_7864.txt,0,normal,0.8380553189702651,0
+experiments\data\anomaly_text\Code\Code (1) - Copy.txt,1,anomaly,1.0676758457813214,1
+experiments\data\normal_text\notifications\email_2331.txt,0,normal,0.8518159160689598,0
+experiments\data\normal_text\reports\report_5201.txt,0,normal,0.832320934936832,0
+experiments\data\normal_text\notifications\email_9887.txt,0,normal,1.0236769630190887,1
+experiments\data\anomaly_text\Code\Code (3).txt,1,anomaly,1.068899215257205,1
+experiments\data\anomaly_text\Resume\Resume (8).txt,1,anomaly,1.0558822426023005,1
+experiments\data\normal_text\reports\report_2892.txt,0,normal,0.8635017623441541,0
+experiments\data\normal_text\reports\report_8021.txt,0,normal,0.8843452893626107,0
+experiments\data\normal_text\reports\report_1753.txt,0,normal,0.7828499916363731,0
+experiments\data\normal_text\reports\report_2349.txt,0,normal,0.9341634797090088,0
+experiments\data\anomaly_text\Code\Code (4) - Copy.txt,1,anomaly,1.0672577366421019,1
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (1).txt,1,anomaly,1.0109191108285844,1
+experiments\data\normal_text\invoices\invoice_961_charspace_962.txt,0,normal,0.8277435279201909,0
+experiments\data\anomaly_text\Resume\Resume (6).txt,1,anomaly,1.0578489837678937,1
+experiments\data\normal_text\notifications\email_1256.txt,0,normal,0.9304765728065288,0
+experiments\data\normal_text\reports\report_7977.txt,0,normal,0.8717906955109949,0
+experiments\data\normal_text\reports\report_6708.txt,0,normal,0.9003736920775668,0
+experiments\data\normal_text\notifications\email_9788.txt,0,normal,0.9483675746363608,0
+experiments\data\normal_text\notifications\email_8597.txt,0,normal,0.9410797857943635,0
+experiments\data\normal_text\reports\report_9708.txt,0,normal,0.8895122281548479,0
+experiments\data\normal_text\notifications\email_4874.txt,0,normal,0.8291874099934116,0
+experiments\data\normal_text\notifications\email_9036.txt,0,normal,0.988398673558375,0
+experiments\data\normal_text\reports\report_3471.txt,0,normal,0.9090481933178555,0
+experiments\data\anomaly_text\Resume\Resume (15).txt,1,anomaly,1.0596085672346223,1
+experiments\data\normal_text\reports\report_3440.txt,0,normal,0.6804571852556798,0
+experiments\data\anomaly_text\RandomText\randomText (11).txt,1,anomaly,1.070903477435119,1
+experiments\data\normal_text\notifications\email_2938.txt,0,normal,0.8768111961808366,0
+experiments\data\anomaly_text\Resume\Resume (23).txt,1,anomaly,1.058397226176932,1
+experiments\data\normal_text\notifications\email_2837.txt,0,normal,0.8616114287835922,0
+experiments\data\normal_text\reports\report_736.txt,0,normal,0.9082178236392465,0
+experiments\data\normal_text\reports\report_7867.txt,0,normal,0.9562984878787156,0
+experiments\data\normal_text\reports\report_519.txt,0,normal,0.5424252029826773,0
+experiments\data\normal_text\reports\report_2490.txt,0,normal,0.872434757124071,0
+experiments\data\normal_text\reports\report_2922.txt,0,normal,0.9147410722576378,0
+experiments\data\anomaly_text\Code\Code (6).txt,1,anomaly,1.067982313464244,1
+experiments\data\normal_text\invoices\invoice_664_color_B_247.txt,0,normal,0.8522259228716966,0
+experiments\data\normal_text\notifications\email_6775.txt,0,normal,0.9134738230238962,0
+experiments\data\normal_text\notifications\email_608.txt,0,normal,0.91706648688724,0
+experiments\data\normal_text\reports\report_6923.txt,0,normal,0.9099030928278263,0
+experiments\data\normal_text\reports\report_9662.txt,0,normal,0.5424252029826773,0
+experiments\data\normal_text\reports\report_5846.txt,0,normal,0.8391558243216767,0
+experiments\data\normal_text\reports\report_8576.txt,0,normal,0.8922273804723616,0
+experiments\data\normal_text\notifications\email_8045.txt,0,normal,0.9860241044519429,0
+experiments\data\normal_text\reports\report_7659.txt,0,normal,0.8426258289993792,0
+experiments\data\normal_text\notifications\email_6322.txt,0,normal,1.0138304783616,1
+experiments\data\anomaly_text\Resume\Resume (17).txt,1,anomaly,1.0613349316993,1
+experiments\data\anomaly_text\Resume\Resume (25).txt,1,anomaly,1.0554323219569834,1
+experiments\data\normal_text\invoices\invoice_933_color_B_243.txt,0,normal,0.7891595252374012,0
+experiments\data\normal_text\reports\report_5060.txt,0,normal,0.9539912203108376,0
+experiments\data\normal_text\reports\report_756.txt,0,normal,0.9090481933178555,0
+experiments\data\normal_text\notifications\email_3983.txt,0,normal,1.0013912282546662,0
+experiments\data\normal_text\invoices\invoice_102_color_B_240.txt,0,normal,0.8470762660380139,0
+experiments\data\normal_text\reports\report_7994.txt,0,normal,0.7509838604053207,0
+experiments\data\normal_text\reports\report_4829.txt,0,normal,0.8469604762713759,0
+experiments\data\normal_text\notifications\email_1408.txt,0,normal,0.9323922411061101,0
+experiments\data\normal_text\contracts\BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement.txt,0,normal,1.055414356037752,1
+experiments\data\anomaly_text\Resume\Resume (10).txt,1,anomaly,1.0602626845450691,1
+experiments\data\normal_text\notifications\email_1417.txt,0,normal,0.9398826236129122,0
+experiments\data\normal_text\notifications\email_8568.txt,0,normal,0.9886745526599399,0
+experiments\data\anomaly_text\RandomText\randomText (13).txt,1,anomaly,1.0696582555607046,1
+experiments\data\anomaly_text\Code\Code (1).txt,1,anomaly,1.0676758457813214,1
+experiments\data\normal_text\notifications\email_4701.txt,0,normal,0.9635161146922431,0
+experiments\data\normal_text\notifications\email_8262.txt,0,normal,0.9271000793671064,0
+experiments\data\normal_text\invoices\invoice_741_color_B_243.txt,0,normal,0.8167106111290803,0
+experiments\data\normal_text\notifications\email_3022.txt,0,normal,0.8925301778234754,0
+experiments\data\normal_text\notifications\email_439.txt,0,normal,0.8423954030802251,0
+experiments\data\anomaly_text\RandomText\randomText (5).txt,1,anomaly,1.0639302375650141,1
+experiments\data\normal_text\reports\report_9278.txt,0,normal,0.7208112634626643,0
+experiments\data\normal_text\reports\report_8077.txt,0,normal,0.8406427590750367,0
+experiments\data\normal_text\notifications\email_623.txt,0,normal,0.9259828810561646,0
+experiments\data\normal_text\reports\report_4021.txt,0,normal,0.849351958697883,0
+experiments\data\normal_text\invoices\invoice_230_color_B_242.txt,0,normal,0.7779650954265639,0
+experiments\data\normal_text\notifications\email_1827.txt,0,normal,0.8608284316716716,0
+experiments\data\normal_text\notifications\email_9146.txt,0,normal,0.9504658474678475,0
+experiments\data\normal_text\invoices\invoice_490_charspace_491.txt,0,normal,0.895796569361841,0
+experiments\data\normal_text\reports\report_8553.txt,0,normal,0.8469604762713759,0
+experiments\data\normal_text\notifications\email_4613.txt,0,normal,0.9362046506360677,0
+experiments\data\anomaly_text\Code\Code (7).txt,1,anomaly,1.0656765106278838,1
+experiments\data\anomaly_text\Resume\Resume (22).txt,1,anomaly,1.064391316307155,1
+experiments\data\normal_text\invoices\invoice_738_charspace_739.txt,0,normal,0.7799047304436714,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (17).txt,1,anomaly,1.0730341786807922,1
+experiments\data\normal_text\reports\report_3673.txt,0,normal,0.8642984164776393,0
+experiments\data\anomaly_text\Code\Code (2) - Copy.txt,1,anomaly,1.0704622510267445,1
+experiments\data\normal_text\reports\report_5025.txt,0,normal,0.9329657884553458,0
+experiments\data\normal_text\notifications\email_6331.txt,0,normal,0.8735304865987942,0
+experiments\data\anomaly_text\RandomText\randomText (9).txt,1,anomaly,1.0665910016608802,1
+experiments\data\anomaly_text\RandomText\randomText (8).txt,1,anomaly,1.068250883983971,1
+experiments\data\normal_text\reports\report_8928.txt,0,normal,0.9134805957661075,0
+experiments\data\normal_text\notifications\email_2915.txt,0,normal,0.8340047326829169,0
+experiments\data\normal_text\notifications\email_9950.txt,0,normal,0.9609952402833689,0
+experiments\data\anomaly_text\Resume\Resume (14).txt,1,anomaly,1.0643332152388776,1
+experiments\data\normal_text\notifications\email_4567.txt,0,normal,0.9361548892844799,0
+experiments\data\normal_text\notifications\email_6653.txt,0,normal,0.8859559069717181,0
+experiments\data\normal_text\notifications\email_9131.txt,0,normal,0.9783003631238815,0
+experiments\data\normal_text\notifications\email_1140.txt,0,normal,0.8859677459603832,0
+experiments\data\normal_text\reports\report_6873.txt,0,normal,0.8358984770642482,0
+experiments\data\normal_text\reports\report_2537.txt,0,normal,0.7685187411019252,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (6).txt,1,anomaly,1.0697179219516983,1
+experiments\data\anomaly_text\RandomText\randomText (6).txt,1,anomaly,1.067443613400582,1
+experiments\data\normal_text\notifications\email_2236.txt,0,normal,0.9576017567643129,0
+experiments\data\anomaly_text\Code\Code (2).txt,1,anomaly,1.0704622510267445,1
+experiments\data\normal_text\notifications\email_2974.txt,0,normal,0.9960169272659123,0
+experiments\data\anomaly_text\Resume\Resume (20).txt,1,anomaly,1.0624122110822185,1
+experiments\data\anomaly_text\Resume\Resume (13).txt,1,anomaly,1.0602486722763265,1
+experiments\data\normal_text\notifications\email_379.txt,0,normal,0.8648741753164778,0
+experiments\data\normal_text\reports\report_8884.txt,0,normal,0.8995988579558352,0
+experiments\data\normal_text\reports\report_5349.txt,0,normal,0.9024133721011167,0
+experiments\data\normal_text\reports\report_6111.txt,0,normal,0.9615729132990899,0
+experiments\data\normal_text\notifications\email_3734.txt,0,normal,0.9013573327349771,0
+experiments\data\normal_text\invoices\invoice_66_color_B_252.txt,0,normal,0.8827266471213231,0
+experiments\data\normal_text\notifications\email_74.txt,0,normal,0.8127312657008161,0
+experiments\data\normal_text\notifications\email_4980.txt,0,normal,0.9758073782697713,0
+experiments\data\normal_text\notifications\email_3388.txt,0,normal,0.8576411062795256,0
+experiments\data\normal_text\reports\report_9802.txt,0,normal,0.8590528241776603,0
+experiments\data\normal_text\notifications\email_9899.txt,0,normal,0.9631118893264604,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (20).txt,1,anomaly,1.0679609606462426,1
+experiments\data\normal_text\reports\report_476.txt,0,normal,0.8825996607302304,0
+experiments\data\normal_text\notifications\email_353.txt,0,normal,0.8518397736754321,0
+experiments\data\normal_text\reports\report_3058.txt,0,normal,0.8628868943511212,0
+experiments\data\normal_text\reports\report_8849.txt,0,normal,0.7864266853313294,0
+experiments\data\normal_text\reports\report_4955.txt,0,normal,0.9051518218436446,0
+experiments\data\normal_text\reports\report_8390.txt,0,normal,0.9026637624765562,0
+experiments\data\normal_text\reports\report_8176.txt,0,normal,1.0497406721690288,1
+experiments\data\normal_text\notifications\email_3985.txt,0,normal,0.9710796071496812,0
+experiments\data\normal_text\notifications\email_5392.txt,0,normal,0.9586418752420174,0
+experiments\data\anomaly_text\Resume\Resume (4).txt,1,anomaly,1.0645162592453203,1
+experiments\data\normal_text\reports\report_5332.txt,0,normal,0.8670542546359226,0
+experiments\data\normal_text\reports\report_1569.txt,0,normal,0.9025855608359199,0
+experiments\data\normal_text\reports\report_5434.txt,0,normal,0.9030349880331174,0
+experiments\data\anomaly_text\Code\Code (3) - Copy.txt,1,anomaly,1.068899215257205,1
+experiments\data\normal_text\notifications\email_6313.txt,0,normal,0.8643729584798368,0
+experiments\data\normal_text\invoices\invoice_957_color_B_241.txt,0,normal,0.7824353332653353,0
+experiments\data\normal_text\reports\report_9223.txt,0,normal,0.5424252029826773,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (5).txt,1,anomaly,1.0625269159155961,1
+experiments\data\anomaly_text\Resume\Resume (21).txt,1,anomaly,1.0594079785763235,1
+experiments\data\normal_text\reports\report_6145.txt,0,normal,1.0044041374728059,0
+experiments\data\normal_text\reports\report_8449.txt,0,normal,1.0346540208980088,1
+experiments\data\anomaly_text\Code\Code (4).txt,1,anomaly,1.0672577366421019,1
+experiments\data\normal_text\reports\report_1122.txt,0,normal,0.9382698940675153,0
+experiments\data\normal_text\notifications\email_2233.txt,0,normal,0.9491196120500394,0
+experiments\data\normal_text\reports\report_8351.txt,0,normal,0.859943591132356,0
+experiments\data\normal_text\reports\report_4935.txt,0,normal,0.8986988963700815,0
+experiments\data\normal_text\reports\report_9181.txt,0,normal,0.7326915756811894,0
+experiments\data\normal_text\invoices\invoice_895_charspace_896.txt,0,normal,0.8217037786657381,0
+experiments\data\normal_text\invoices\invoice_72.txt,0,normal,0.811141474799268,0
+experiments\data\normal_text\notifications\email_7421.txt,0,normal,0.9676204252318962,0
+experiments\data\normal_text\reports\report_9817.txt,0,normal,0.8717833224646832,0
+experiments\data\normal_text\reports\report_1103.txt,0,normal,0.7801484081771872,0
+experiments\data\anomaly_text\RandomText\randomText (7).txt,1,anomaly,1.0679239299767391,1
+experiments\data\normal_text\reports\report_7007.txt,0,normal,0.9336305416896886,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (2).txt,1,anomaly,1.0711395906270846,1
+experiments\data\normal_text\notifications\email_5887.txt,0,normal,0.8465030970048004,0
+experiments\data\normal_text\notifications\email_9296.txt,0,normal,0.9233194452830762,0
+experiments\data\normal_text\notifications\email_5338.txt,0,normal,0.9561275258769979,0
+experiments\data\normal_text\reports\report_1598.txt,0,normal,0.8866453801621081,0
+experiments\data\normal_text\notifications\email_5533.txt,0,normal,0.9668484508906656,0
+experiments\data\normal_text\reports\report_5454.txt,0,normal,0.8818379443768083,0
+experiments\data\normal_text\notifications\email_9309.txt,0,normal,0.9400843303400461,0
+experiments\data\normal_text\notifications\email_1097.txt,0,normal,0.8614151837999402,0
+experiments\data\normal_text\reports\report_6359.txt,0,normal,0.900001309349984,0
+experiments\data\normal_text\reports\report_5544.txt,0,normal,0.820050646612188,0
+experiments\data\normal_text\notifications\email_9373.txt,0,normal,0.9780151174140719,0
+experiments\data\normal_text\notifications\email_9633.txt,0,normal,0.9630410786625813,0
+experiments\data\normal_text\notifications\email_4596.txt,0,normal,0.9525310059853275,0
+experiments\data\normal_text\invoices\invoice_702.txt,0,normal,0.769664933429185,0
+experiments\data\normal_text\notifications\email_4985.txt,0,normal,1.0359011740406037,1
+experiments\data\normal_text\reports\report_8285.txt,0,normal,0.9097936096975099,0
+experiments\data\normal_text\notifications\email_2703.txt,0,normal,0.9113720333922506,0
+experiments\data\normal_text\reports\report_6693.txt,0,normal,0.7957263356214386,0
+experiments\data\normal_text\notifications\email_5868.txt,0,normal,0.8656080626509607,0
+experiments\data\normal_text\invoices\invoice_824_charspace_825.txt,0,normal,0.7974488349423076,0
+experiments\data\normal_text\reports\report_3528.txt,0,normal,0.9003736920775668,0
+experiments\data\normal_text\notifications\email_7311.txt,0,normal,0.90112521235741,0
+experiments\data\normal_text\notifications\email_1005.txt,0,normal,0.8473251992919271,0
+experiments\data\anomaly_text\Resume\Resume (1).txt,1,anomaly,1.0624337073260701,1
+experiments\data\normal_text\reports\report_2187.txt,0,normal,0.8764020068000486,0
+experiments\data\normal_text\reports\report_6328.txt,0,normal,0.7138606224349763,0
+experiments\data\normal_text\reports\report_4723.txt,0,normal,0.9203838213817641,0
+experiments\data\normal_text\reports\report_7730.txt,0,normal,0.8457045487553518,0
+experiments\data\normal_text\reports\report_7845.txt,0,normal,0.9300969280891883,0
+experiments\data\anomaly_text\Code\code (8).txt,1,anomaly,1.0695421010955108,1
+experiments\data\normal_text\notifications\email_809.txt,0,normal,0.8514607175845421,0
+experiments\data\anomaly_text\Code\code (9).txt,1,anomaly,1.0599309538234865,1
+experiments\data\normal_text\notifications\email_1905.txt,0,normal,0.9195995627585513,0
+experiments\data\normal_text\reports\report_1560.txt,0,normal,0.9395125170146057,0
+experiments\data\normal_text\contracts\GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement4.txt,0,normal,1.0539313200495164,1
+experiments\data\normal_text\notifications\email_8824.txt,0,normal,0.9190681755396001,0
+experiments\data\normal_text\invoices\invoice_246_color_B_243.txt,0,normal,0.8451533072742937,0
+experiments\data\normal_text\invoices\invoice_614_color_B_254.txt,0,normal,0.7912291049686033,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (11).txt,1,anomaly,1.0554786501219091,1
+experiments\data\normal_text\notifications\email_5486.txt,0,normal,0.9638948363425366,0
+experiments\data\normal_text\notifications\email_2198.txt,0,normal,0.8811696888438113,0
+experiments\data\normal_text\notifications\email_4469.txt,0,normal,1.0160033678090097,1
+experiments\data\normal_text\reports\report_6533.txt,0,normal,0.9355935205160139,0
+experiments\data\normal_text\notifications\email_8125.txt,0,normal,1.047005623239587,1
+experiments\data\normal_text\notifications\email_5180.txt,0,normal,0.9262872410254344,0
+experiments\data\normal_text\invoices\invoice_349.txt,0,normal,0.8096297695653425,0
+experiments\data\normal_text\reports\report_3841.txt,0,normal,0.9049473361441586,0
+experiments\data\normal_text\notifications\email_7679.txt,0,normal,0.9475033730303374,0
+experiments\data\normal_text\notifications\email_9994.txt,0,normal,0.9773485756855853,0
+experiments\data\normal_text\reports\report_2762.txt,0,normal,0.9087621918036187,0
+experiments\data\normal_text\notifications\email_5930.txt,0,normal,0.883685078632915,0
+experiments\data\anomaly_text\RandomText\randomText (4).txt,1,anomaly,1.0668988763569018,1
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (3).txt,1,anomaly,1.0399743090121218,1
+experiments\data\anomaly_text\Resume\Resume (19).txt,1,anomaly,1.0598332264766919,1
+experiments\data\normal_text\invoices\invoice_537_charspace_538.txt,0,normal,0.7999663562350026,0
+experiments\data\anomaly_text\RandomText\randomText (12).txt,1,anomaly,1.0685617393218316,1
+experiments\data\normal_text\reports\report_3882.txt,0,normal,0.8254952532705655,0
+experiments\data\normal_text\notifications\email_5285.txt,0,normal,0.9098444706147091,0
+experiments\data\normal_text\reports\report_7623.txt,0,normal,0.8832836884712898,0
+experiments\data\normal_text\notifications\email_5989.txt,0,normal,0.8707826022180508,0
+experiments\data\normal_text\notifications\email_2989.txt,0,normal,0.8503198756031394,0
+experiments\data\normal_text\reports\report_3135.txt,0,normal,0.901169921840335,0
+experiments\data\anomaly_text\Resume\Resume (26).txt,1,anomaly,1.0581251216578402,1
+experiments\data\normal_text\invoices\invoice_286.txt,0,normal,0.7600949543887942,0
+experiments\data\normal_text\notifications\email_4365.txt,0,normal,0.8852176786007513,0
+experiments\data\normal_text\reports\report_2650.txt,0,normal,0.9231607475402617,0
+experiments\data\normal_text\reports\report_9995.txt,0,normal,0.9070697790471259,0
+experiments\data\normal_text\notifications\email_4870.txt,0,normal,0.8821276768248043,0
+experiments\data\normal_text\reports\report_1490.txt,0,normal,0.7510184021389017,0
+experiments\data\normal_text\reports\report_5674.txt,0,normal,0.8793085918476106,0
+experiments\data\normal_text\notifications\email_6531.txt,0,normal,0.884231810356355,0
+experiments\data\normal_text\reports\report_6473.txt,0,normal,0.902931696077906,0
+experiments\data\normal_text\notifications\email_5137.txt,0,normal,0.9795543725684458,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (13).txt,1,anomaly,1.0322319100991426,1
+experiments\data\normal_text\notifications\email_4539.txt,0,normal,0.9380631314856906,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (15).txt,1,anomaly,1.071760656586191,1
+experiments\data\normal_text\notifications\email_8795.txt,0,normal,0.9109188280546022,0
+experiments\data\normal_text\notifications\email_8879.txt,0,normal,0.8905907338292204,0
+experiments\data\anomaly_text\Code\code (10) - Copy.txt,1,anomaly,1.0605793311681102,1
+experiments\data\normal_text\reports\report_6498.txt,0,normal,0.8501602828179778,0
+experiments\data\normal_text\reports\report_823.txt,0,normal,0.9026617077978789,0
+experiments\data\anomaly_text\Code\Code (5) - Copy.txt,1,anomaly,1.069469290144548,1
+experiments\data\normal_text\notifications\email_4340.txt,0,normal,0.9572888763320514,0
+experiments\data\anomaly_text\RandomText\randomText (10).txt,1,anomaly,1.0704436460568691,1
+experiments\data\normal_text\notifications\email_687.txt,0,normal,0.8631357424004217,0
+experiments\data\normal_text\invoices\invoice_502_charspace_503.txt,0,normal,0.8430755347410275,0
+experiments\data\normal_text\reports\report_596.txt,0,normal,0.8451952076216445,0
+experiments\data\normal_text\notifications\email_7188.txt,0,normal,0.9624666612344441,0
+experiments\data\normal_text\invoices\invoice_185.txt,0,normal,0.7665352797119077,0
+experiments\data\normal_text\notifications\email_8706.txt,0,normal,0.9609616685915564,0
+experiments\data\anomaly_text\RandomText\randomText (3).txt,1,anomaly,1.0689735358022325,1
+experiments\data\normal_text\notifications\email_484.txt,0,normal,0.8408091796979589,0
+experiments\data\normal_text\reports\report_3314.txt,0,normal,0.6432340572803619,0
+experiments\data\normal_text\reports\report_7083.txt,0,normal,0.8913687539671288,0
+experiments\data\normal_text\reports\report_5020.txt,0,normal,0.793364401347103,0
+experiments\data\normal_text\invoices\invoice_609_color_B_246.txt,0,normal,0.812458511072319,0
+experiments\data\normal_text\notifications\email_9329.txt,0,normal,0.9859977238540446,0
+experiments\data\normal_text\reports\report_1940.txt,0,normal,0.5424252029826773,0
+experiments\data\normal_text\reports\report_1561.txt,0,normal,0.8849539915151198,0
+experiments\data\normal_text\notifications\email_8153.txt,0,normal,1.0194624497631948,1
+experiments\data\normal_text\reports\report_2366.txt,0,normal,0.9229261729350728,0
+experiments\data\normal_text\reports\report_7963.txt,0,normal,0.804175625135357,0
+experiments\data\normal_text\notifications\email_9467.txt,0,normal,0.8808557307143725,0
+experiments\data\normal_text\reports\report_5108.txt,0,normal,0.8480586271415974,0
+experiments\data\normal_text\notifications\email_5451.txt,0,normal,0.969543454857083,0
+experiments\data\normal_text\reports\report_6469.txt,0,normal,1.027264894863149,1
+experiments\data\normal_text\reports\report_9413.txt,0,normal,0.9009087460294803,0
+experiments\data\normal_text\notifications\email_180.txt,0,normal,0.8566961292691667,0
+experiments\data\normal_text\reports\report_3434.txt,0,normal,0.8895122281548479,0
+experiments\data\normal_text\notifications\email_9947.txt,0,normal,1.0072949022884383,1
+experiments\data\normal_text\reports\report_5509.txt,0,normal,0.803522035663269,0
+experiments\data\normal_text\reports\report_6783.txt,0,normal,0.8254952532705655,0
+experiments\data\normal_text\invoices\invoice_952.txt,0,normal,0.8216929077438672,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (8).txt,1,anomaly,1.067178162618222,1
+experiments\data\normal_text\reports\report_9464.txt,0,normal,0.9457484223743727,0
+experiments\data\normal_text\reports\report_1830.txt,0,normal,0.8133254635374337,0
+experiments\data\anomaly_text\Code\Code (5).txt,1,anomaly,1.069469290144548,1
+experiments\data\normal_text\notifications\email_5340.txt,0,normal,0.9143550701218331,0
+experiments\data\normal_text\reports\report_161.txt,0,normal,0.8134027917724839,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (9).txt,1,anomaly,1.0689787390589331,1
+experiments\data\normal_text\invoices\invoice_59.txt,0,normal,0.7849921735082893,0
+experiments\data\normal_text\invoices\invoice_10_color_B_254.txt,0,normal,0.8333804635449168,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (12).txt,1,anomaly,1.0725588810947206,1
+experiments\data\normal_text\reports\report_4382.txt,0,normal,0.899507084266046,0
+experiments\data\normal_text\reports\report_7078.txt,0,normal,0.9244279485421233,0
+experiments\data\normal_text\reports\report_9309.txt,0,normal,0.9651505219014449,0
+experiments\data\normal_text\notifications\email_1688.txt,0,normal,0.9187877931845941,0
+experiments\data\normal_text\reports\report_9899.txt,0,normal,1.0336092835110255,1
+experiments\data\normal_text\notifications\email_592.txt,0,normal,0.9536905131414283,0
+experiments\data\normal_text\notifications\email_2827.txt,0,normal,0.8528716730802711,0
+experiments\data\normal_text\notifications\email_1340.txt,0,normal,0.978246254639155,0
+experiments\data\normal_text\notifications\email_5936.txt,0,normal,0.8565997462571464,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (7).txt,1,anomaly,1.0553758340767252,1
+experiments\data\normal_text\notifications\email_462.txt,0,normal,0.925097729450916,0
+experiments\data\anomaly_text\Resume\Resume (16).txt,1,anomaly,1.0564442505411884,1
+experiments\data\normal_text\invoices\invoice_619.txt,0,normal,0.8262975904754228,0
+experiments\data\normal_text\reports\report_8978.txt,0,normal,0.9112719997968033,0
+experiments\data\normal_text\notifications\email_509.txt,0,normal,0.867306429896957,0
+experiments\data\normal_text\contracts\LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement.txt,0,normal,1.0543477186673418,1
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (10).txt,1,anomaly,1.0706253704958069,1
+experiments\data\normal_text\reports\report_9188.txt,0,normal,0.8430471248004975,0
+experiments\data\normal_text\invoices\invoice_723_color_B_246.txt,0,normal,0.8163306115416822,0
+experiments\data\normal_text\notifications\email_2626.txt,0,normal,0.8309129612756746,0
+experiments\data\normal_text\notifications\email_4587.txt,0,normal,0.8410984138884052,0
+experiments\data\normal_text\reports\report_9076.txt,0,normal,0.8267502894775599,0
+experiments\data\normal_text\reports\report_8620.txt,0,normal,0.8948993677558705,0
+experiments\data\normal_text\notifications\email_5940.txt,0,normal,0.8238717946628317,0
+experiments\data\normal_text\invoices\invoice_332_charspace_333.txt,0,normal,0.7742704354614449,0
+experiments\data\normal_text\notifications\email_8150.txt,0,normal,1.0245661573152074,1
+experiments\data\normal_text\notifications\email_1132.txt,0,normal,0.8580176600281888,0
+experiments\data\anomaly_text\RandomText\randomText (2).txt,1,anomaly,1.0698025895301015,1
+experiments\data\anomaly_text\RandomText\randomText (1).txt,1,anomaly,1.0680553401498813,1
+experiments\data\normal_text\notifications\email_543.txt,0,normal,0.9029208712994817,0
+experiments\data\normal_text\invoices\invoice_781_charspace_782.txt,0,normal,0.782756992146765,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (16).txt,1,anomaly,1.0029389521434262,0
+experiments\data\normal_text\reports\report_4281.txt,0,normal,0.9444912729957256,0
+experiments\data\normal_text\notifications\email_4050.txt,0,normal,0.8710582113129383,0
+experiments\data\normal_text\reports\report_2038.txt,0,normal,0.943742293541631,0
+experiments\data\normal_text\invoices\invoice_616_charspace_617.txt,0,normal,0.784640010688853,0
+experiments\data\anomaly_text\Resume\Resume (2).txt,1,anomaly,1.0602077806411445,1
+experiments\data\normal_text\invoices\invoice_968.txt,0,normal,0.7897506504049541,0
+experiments\data\anomaly_text\Resume\Resume (24).txt,1,anomaly,1.0602297347119725,1
+experiments\data\anomaly_text\RandomText\randomText (15).txt,1,anomaly,1.068820479103714,1
+experiments\data\normal_text\reports\report_1594.txt,0,normal,0.9026617077978789,0
+experiments\data\normal_text\notifications\email_377.txt,0,normal,0.879558585256133,0
+experiments\data\normal_text\reports\report_4680.txt,0,normal,1.0540961804597466,1
+experiments\data\normal_text\reports\report_25.txt,0,normal,0.8052692058891296,0
+experiments\data\normal_text\invoices\invoice_991_charspace_992.txt,0,normal,0.8179631722081775,0
+experiments\data\normal_text\notifications\email_4745.txt,0,normal,0.9247961892243111,0
+experiments\data\normal_text\invoices\invoice_882_charspace_883.txt,0,normal,0.826462628731057,0
+experiments\data\normal_text\notifications\email_3719.txt,0,normal,0.9440785236685291,0
+experiments\data\normal_text\invoices\invoice_572_color_B_242.txt,0,normal,0.8625064383479799,0
+experiments\data\normal_text\notifications\email_6014.txt,0,normal,1.0028565811222052,0
+experiments\data\normal_text\invoices\invoice_814_color_B_254.txt,0,normal,0.7986782181886152,0
+experiments\data\normal_text\notifications\email_1401.txt,0,normal,0.9296372803473786,0
+experiments\data\normal_text\reports\report_2668.txt,0,normal,0.922582388061585,0
+experiments\data\normal_text\notifications\email_5993.txt,0,normal,0.8558390076438303,0
+experiments\data\normal_text\reports\report_5022.txt,0,normal,0.9360172472289746,0
+experiments\data\normal_text\reports\report_1582.txt,0,normal,0.8950910986836781,0
+experiments\data\normal_text\notifications\email_102.txt,0,normal,0.8717936737240987,0
+experiments\data\normal_text\reports\report_2751.txt,0,normal,1.001719333199828,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (14).txt,1,anomaly,1.0723581151282202,1
+experiments\data\normal_text\notifications\email_9282.txt,0,normal,0.903162072343239,0
+experiments\data\normal_text\invoices\invoice_636.txt,0,normal,0.8280082880266459,0
+experiments\data\normal_text\notifications\email_4437.txt,0,normal,0.8395231234552845,0
+experiments\data\normal_text\invoices\invoice_352.txt,0,normal,0.8021466723718187,0
+experiments\data\normal_text\invoices\invoice_639_color_B_247.txt,0,normal,0.7789879772837598,0
+experiments\data\normal_text\reports\report_4871.txt,0,normal,0.7641241801430242,0
+experiments\data\normal_text\notifications\email_2252.txt,0,normal,0.8990156116498793,0
+experiments\data\normal_text\reports\report_4090.txt,0,normal,0.5424252029826773,0
+experiments\data\anomaly_text\Code\Code (6) - Copy.txt,1,anomaly,1.067982313464244,1
+experiments\data\anomaly_text\Resume\Resume (3).txt,1,anomaly,1.057496833163134,1
+experiments\data\normal_text\notifications\email_1351.txt,0,normal,0.9271181885112285,0
+experiments\data\normal_text\reports\report_8639.txt,0,normal,0.9188979463006584,0
+experiments\data\anomaly_text\Resume\Resume (18).txt,1,anomaly,1.0634347746044661,1
+experiments\data\anomaly_text\Code\code (10).txt,1,anomaly,1.0605793311681102,1
+experiments\data\normal_text\notifications\email_202.txt,0,normal,0.8429474538987276,0
+experiments\data\normal_text\reports\report_54.txt,0,normal,0.9386055236762927,0
+experiments\data\normal_text\reports\report_4933.txt,0,normal,0.8917804787305132,0
+experiments\data\normal_text\notifications\email_2883.txt,0,normal,0.9273198544277012,0
+experiments\data\normal_text\invoices\invoice_814.txt,0,normal,0.8241457843285528,0
+experiments\data\anomaly_text\Resume\Resume (7).txt,1,anomaly,1.058443265670657,1
+experiments\data\normal_text\notifications\email_5221.txt,0,normal,0.8710399493375276,0
+experiments\data\normal_text\notifications\email_6920.txt,0,normal,0.9002161467941304,0
+experiments\data\normal_text\notifications\email_8785.txt,0,normal,0.9380095852334009,0
+experiments\data\normal_text\invoices\invoice_467_charspace_468.txt,0,normal,0.7651997583066183,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (19).txt,1,anomaly,0.9628023623418077,0
+experiments\data\normal_text\invoices\invoice_736_color_B_245.txt,0,normal,0.8043763421117409,0
+experiments\data\normal_text\invoices\invoice_993_color_B_253.txt,0,normal,0.8165908680884102,0
+experiments\data\normal_text\reports\report_5670.txt,0,normal,0.8751415554214622,0
+experiments\data\normal_text\reports\report_62.txt,0,normal,0.8893074372360227,0
+experiments\data\normal_text\notifications\email_2783.txt,0,normal,0.8986876934973669,0
+experiments\data\normal_text\notifications\email_6333.txt,0,normal,0.9195958645041915,0
+experiments\data\normal_text\reports\report_3450.txt,0,normal,0.9287376249536757,0
+experiments\data\normal_text\notifications\email_4422.txt,0,normal,0.8299485574821217,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (18).txt,1,anomaly,1.062577628163607,1
+experiments\data\normal_text\reports\report_1241.txt,0,normal,0.8716874386063785,0
+experiments\data\normal_text\notifications\email_2684.txt,0,normal,0.9049006336910278,0
+experiments\data\normal_text\invoices\invoice_152_charspace_153.txt,0,normal,0.8483830687494587,0
+experiments\data\normal_text\reports\report_4145.txt,0,normal,0.8117146192317909,0
+experiments\data\normal_text\notifications\email_1497.txt,0,normal,0.8590747986992556,0
+experiments\data\anomaly_text\RandomText\randomText (14).txt,1,anomaly,1.0692795085133737,1
+experiments\data\normal_text\notifications\email_7683.txt,0,normal,0.8261707440353704,0
+experiments\data\anomaly_text\Resume\Resume (12).txt,1,anomaly,1.0544862895683862,1
+experiments\data\normal_text\notifications\email_3165.txt,0,normal,0.8695212060178658,0
+experiments\data\anomaly_text\Code\Code (7) - Copy.txt,1,anomaly,1.0656765106278838,1
+experiments\data\normal_text\reports\report_2433.txt,0,normal,0.5424252029826773,0
+experiments\data\normal_text\reports\report_5013.txt,0,normal,0.881371540008402,0
+experiments\data\anomaly_text\Resume\Resume (9).txt,1,anomaly,1.0568848718413546,1
+experiments\data\normal_text\invoices\invoice_30.txt,0,normal,0.8798717386398148,0
+experiments\data\normal_text\reports\report_5851.txt,0,normal,0.9260019242298333,0
+experiments\data\normal_text\notifications\email_6316.txt,0,normal,0.8847035623276414,0
+experiments\data\normal_text\invoices\invoice_690_color_B_242.txt,0,normal,0.8236817884110175,0
+experiments\data\normal_text\notifications\email_3728.txt,0,normal,0.9371450658868797,0
+experiments\data\anomaly_text\OCRProblematic\OcrProblematic (4).txt,1,anomaly,1.0665815906241354,1
+experiments\data\normal_text\invoices\invoice_355_charspace_356.txt,0,normal,0.7662935191929477,0

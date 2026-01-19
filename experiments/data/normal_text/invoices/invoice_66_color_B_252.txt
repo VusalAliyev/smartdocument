@@ -1,0 +1,52 @@
+
+=== Page 1 ===
+Invoice no: 68456767
+
+Date of issue:
+
+Seller:
+
+Johnson-Smith
+46391 Davis Grove
+Stevensview, ND 37145
+
+Tax Id: 981-98-6487
+IBAN: GBO5VWTP21153093587644
+
+ITEMS
+
+No. Description
+
+1. Eat and Stay Slim
+
+SUMMARY
+
+Total
+
+07/25/2020
+
+Client:
+
+Parker-Ortiz
+PSC 5253, Box 5998
+APO AE 25563
+
+Tax Id: 968-83-6957
+
+Net price Net worth VAT [%]
+
+each 4,49 22,45 10%
+Net worth VAT
+22,45 2,25
+$ 22,45 $ 2,25
+
+Gross
+worth
+
+24,70
+
+Gross worth
+24,70
+
+$ 24,70
+

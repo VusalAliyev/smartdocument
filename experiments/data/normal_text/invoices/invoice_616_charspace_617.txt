@@ -1,0 +1,99 @@
+
+=== Page 1 ===
+Invoice no: 44257421
+
+Date of issue:
+
+Seller:
+
+Guerrero and Sons
+4643 Foster Course Apt. 881
+West Davidfurt, OH 83588
+
+Tax Id: 935-73-7816
+IBAN: GB94UPSI187545443348275
+
+ITEMS
+No. Description Qty
+1. Michelangelo and the Popes 3,00
+
+Ceiling by Ross King
+
+2. Gourmet s Old Vienna Cookbook 4,00
+A Viennese Memoir
+
+By Diabetic Dream Desserts 2,00
+
+4. Skeleton Canyon (Joanna Brady 4,00
+Mysteries, Book 5) by Jance, J.A.
+
+S: Sasinowski M-Legacy Of Ra 1,00
+BOOK NEW
+
+6. Art History Portables Book 6 by 1,00
+
+Michael W. Cothren and Marilyn
+Stokstad 5th edtn
+
+SUMMARY
+
+VAT [%]
+10%
+
+Total
+
+11/01/2020
+
+UM
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+eacn
+
+Client:
+
+Morales, Johnson and Webb
+93695 Davis Well
+West Richard, SD 86064
+
+Tax Id: 921-96-8395
+
+Net price Net worth VAT [%]
+4,49 13,47 10%
+11,84 47,36 10%
+4,49 8,98 10%
+4,09 16,36 10%
+19,40 19,40 10%
+26,00 26,00 10%
+Net worth VAT
+131,57 13,16
+$ 131,57 $ 13,16
+
+Gross
+worth
+14,82
+
+52,10
+
+9,88
+
+18,00
+
+21,34
+
+28,60
+
+Gross worth
+
+144,73
+
+$ 144,73
+

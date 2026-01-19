@@ -1,0 +1,94 @@
+
+=== Page 1 ===
+Invoice no: 37051524
+
+Date of issue:
+
+Seller:
+
+Smith, Hamilton and Miller
+4061 Collins View
+Brownport, NH 68989
+
+Tax Id: 903-82-5671
+
+IBAN: GB28AZPN15125864938176
+
+ITEMS
+
+No. Description
+
+L Diabetic Dream Desserts
+2. Ex-KOP
+
+By The Fortune of War (Aubrey /
+Maturin) by Patrick OBrian
+
+4. Seashells of North America: A
+Guide to Field Ident
+
+SUMMARY
+
+Total
+
+Qty
+
+5,00
+4,00
+
+5,00
+
+3,00
+
+VAT [%]
+
+10%
+
+02/07/2019
+
+UM
+
+each
+
+each
+
+each
+
+each
+
+Client:
+
+Mcmahon PLC
+
+920 Anderson Walk Apt. 255
+New Tabithaberg, KS 76020
+
+Tax Id: 934-81-1173
+
+Net price
+
+4,49
+4,49
+
+4,49
+
+4,49
+
+Net worth
+76,33
+
+$ 76,33
+
+Net worth VAT [%] Gross
+worth
+
+22,45 10% 24,70
+17,96 10% 19,76
+22,45 10% 24,70
+13,47 10% 14,82
+VAT Gross worth
+
+7,63 83,96
+
+$ 7,63 $ 83,96
+

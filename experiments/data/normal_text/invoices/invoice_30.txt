@@ -1,0 +1,105 @@
+
+=== Page 1 ===
+Invoice no: 65524700
+
+Date of issue:
+
+Seller:
+
+Kirk-Green
+7858 Christopher Pass
+Wellsside, KY 32616
+
+Tax Id: 955-86-8810
+IBAN: GB66DSV030328253726805
+
+ITEMS
+No. Description Qty
+1. Dell Desktop Computer 3020 2,00
+
+Micro Tiny PC Intel i3 4GB
+120GB SSD Windows 10 WiFi
+
+2. HP Elite 8100 Desktop 4,00
+Computer Package - Intel Core
+i5 3.2-GHz, 8GB RAM, 500GB H
+
+3: Dell Desktop Computer Optiplex 5,00
+790 Tower PC Core i5 8GB
+500GB Windows 10 Pro
+
+4. 10-Core Gaming Computer 5,00
+Desktop PC Tower HDMI 8GB
+DDR4 R7 Graphic CUSTOM
+BUILT
+
+5: Gaming PC Desktop Computer 5,00
+HDMI RGB Intel i7 RTX 2060,
+HDD+SSD, Windows 10, Wifi
+
+6. Computer Desktop Gaming i5 4,00
+Ram 16G
+SUMMARY
+VAT [%]
+10%
+Total
+
+02/23/2020
+
+UM
+
+eacl
+
+eac
+
+eac
+
+eac
+
+eac
+
+eac
+
+h
+
+Client:
+
+Hall-Cole
+18526 Smith Loop
+Lake Jeremiah, VT 31868
+
+Tax Id: 952-84-7160
+
+Net price Net worth VAT [%]
+134,95 269,90 10%
+209,00 836,00 10%
+149,95 749,75 10%
+348,88 1 744,40 10%
+903,80 4 519,00 10%
+315,00 1 260,00 10%
+Net worth VAT
+
+9 379,05 937,90
+
+$ 9 379,05 $ 937,90
+
+Gross
+worth
+
+296,89
+
+919,60
+
+824,73
+
+1 918,84
+
+4 970,90
+
+1 386,00
+
+Gross worth
+10 316,95
+
+$ 10 316,95
+

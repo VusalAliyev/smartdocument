@@ -1,0 +1,78 @@
+
+=== Page 1 ===
+Invoice no: 60255267
+
+Date of issue:
+
+Seller:
+
+Thomas, Jackson and Williams
+
+17580 Christopher Ports Suite 924
+
+Lake Lisa, VT 42538
+
+Tax Id: 920-74-3562
+
+07/15/2016
+
+IBAN: GB24VNLM13302040066282
+
+ITEMS
+
+No. Description
+
+1. womens sparkle dress size 2X
+Holiday Party RED metallic
+2. NWT J.Crew Silk Wedding Dress
+
+3 J crew Mercantile Women’s Maxi
+Dress Size 2 Floral Tiered Lined
+Pink
+
+SUMMARY
+
+Total
+
+Qty uM
+5,00 each
+2,00 each
+5,00 each
+
+VAT [%]
+
+10%
+
+Client:
+Malone Ltd
+
+47940 Wiley Lake Suite 069
+Johnsonmouth, FL 29012
+
+Tax Id: 924-96-7843
+
+Net price
+
+9,99
+
+395,00
+
+20,00
+
+Net worth
+939,95
+
+$ 939,95
+
+Net worth VAT [%] Gross
+worth
+
+49,95 10% 54,95
+790,00 10% 869,00
+100,00 10% 110,00
+VAT Gross worth
+
+94,00 1 033,95
+
+$ 94,00 $ 1 033,95
+

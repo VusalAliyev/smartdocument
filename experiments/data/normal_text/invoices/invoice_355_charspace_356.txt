@@ -1,0 +1,106 @@
+
+=== Page 1 ===
+Invoice no: 30356014
+
+Date of issue:
+
+Seller:
+
+Anderson, Pierce and Bishop
+1122 Dawn Hill Apt. 114
+Lake Regina, FL 52719
+
+Tax Id: 978-92-5889
+
+IBAN: GB55EFVW27099199619299
+
+ITEMS
+
+No. Description
+
+L YILONG 4'x6' Golden Handmade
+Carpet Antique Hand Knotted
+Silk Rugs 086B
+
+2. Indian Rectangular Beautifully
+Made Chindi Rag Rug Floor
+Carpet Ethnic Mat
+
+3: Nordic Style Round Carpet Blue
+Green Stitching Pattern Decor
+Rug Room Area Rugs
+
+SUMMARY
+
+Total
+
+Qty
+
+3,00
+
+1,00
+
+5,00
+
+VAT [%]
+
+10%
+
+07/02/2013
+
+UM
+
+each
+
+each
+
+each
+
+Client:
+
+Net price
+
+3 600,00
+
+29,99
+
+25,30
+
+Net worth
+10 956,49
+
+$ 10 956,49
+
+Escobar and Sons
+190 Nicholas Falls Apt. 323
+West Dianeborough, NE 34748
+
+Tax Id: 945-74-6260
+
+Net worth
+
+10 800,00
+
+29,99
+
+126,50
+
+VAT
+1 095,65
+
+$ 1 095,65
+
+VAT [%] Gross
+worth
+
+10% 11 880,00
+
+10% 32,99
+
+10% 139,15
+
+Gross worth
+12 052,14
+
+$ 12 052,14
+

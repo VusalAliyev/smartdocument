@@ -1,0 +1,116 @@
+
+=== Page 1 ===
+Invoice no: 22757537
+
+Date of issue:
+
+Seller:
+
+Thomas-Weeks
+88205 Huff Spurs
+Port Kyle, ID 94522
+
+Tax Id: 971-83-1236
+
+IBAN: GB48NVPK89481246083403
+
+ITEMS
+
+No. Description
+
+L Coolibar Sun Protection Tunic
+Dress Cover Up Size Small S
+Pink Pattern UPF 50
+
+2. KAREN SCOTT 3X DRESS
+3 NWT As U Wish NEW Black
+Chevron Size Small Sequin
+
+cocktail formal dress prom
+
+4. Women's Almatrichi Madrid
+Dress Chevron Boho Ethnic
+Exotic Tribal Size 42 L
+
+SUMMARY
+
+Total
+
+Qty
+
+5,00
+
+3,00
+
+3,00
+
+5,00
+
+VAT [%]
+
+10%
+
+08/11/2015
+
+UM
+
+eacn
+
+each
+
+eacn
+
+eacn
+
+Client:
+
+Olsen-Valdez
+USS Stark
+FPO AE 11940
+
+Tax Id: 913-95-9639
+
+Net price
+
+26,99
+
+5,99
+
+4,00
+
+54,86
+
+Net worth
+439,22
+
+$ 439,22
+
+Net worth VAT [%]
+134,95 10%
+17,97 10%
+12,00 10%
+274,30 10%
+
+VAT
+
+43,92
+
+$ 43,92
+
+Gross
+worth
+
+148,44
+
+19,77
+
+13,20
+
+301,73
+
+Gross worth
+
+483,14
+
+$ 483,14
+

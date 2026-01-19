@@ -1,0 +1,3 @@
+TOtal AmOunt: 1,050.00 USD
+Paid AmOunt: 0.00 USD
+Balance Due: 1,050.00 USD
